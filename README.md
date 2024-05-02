@@ -8,6 +8,3 @@ A peer to peer WebRTC application with controls
 ```javascript
 let APP_ID = "YOU-APP-ID"
 ```
-
-
-<img src="./images/Two_persons.PNG">  
