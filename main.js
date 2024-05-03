@@ -1,5 +1,10 @@
 let APP_ID = process.env.APP_ID
 
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
+injectSpeedInsights();
+
+
 
 let token = null;
 let uid = String(Math.floor(Math.random() * 10000))
