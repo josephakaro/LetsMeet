@@ -1,4 +1,4 @@
-# PeerChat
+# LetsMeet
 A peer to peer WebRTC application with controls
 
 # Installation
