@@ -1,4 +1,4 @@
-let APP_ID = ${{ APP_ID }}
+let APP_ID = ${ APP_ID }
 
 
 let token = null;
